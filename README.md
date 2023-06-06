@@ -1,5 +1,8 @@
 # glx
 simulating stars
 
-# render
+# heavily compressed youtube version
 https://youtu.be/xYyWyMKQUyY
+
+# .mp4 file
+See release.
