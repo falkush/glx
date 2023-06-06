@@ -5,4 +5,4 @@ simulating stars
 https://youtu.be/xYyWyMKQUyY
 
 # .mp4 file
-See release.
+See Releases.
